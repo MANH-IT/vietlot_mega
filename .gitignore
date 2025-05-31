@@ -1,0 +1,8 @@
+*.csv
+__pycache__
+*.pyc
+.env
+vietlott_env/
+data_645/
+data_655/
+*.ipynb_checkpoints
